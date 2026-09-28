@@ -1,0 +1,11 @@
+# Addition of Integers
+
+Integers are whole numbers, their negatives, and zero. Addition combines two integers to find their sum.
+
+On a number line, start at the first integer. Adding a positive integer moves right; adding a negative integer moves left.
+
+## Example 1
+
+`4 + 3 = 7`
+
+Start at 4 and move 3 places to the right. You land on 7, so the sum is 7.
