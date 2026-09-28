@@ -15,3 +15,7 @@ Start at 4 and move 3 places to the right. You land on 7, so the sum is 7.
 `-6 + 4 = -2`
 
 Start at -6 and move 4 places to the right. You land on -2, so the sum is -2.
+
+## Example 3
+
+`2 + 1 = 3`
